@@ -107,3 +107,4 @@ ftp://cm.bell-labs.com/cm/stat/tukey/memo/techtools.html
 Zea Mays SNP Calling Project
 sdscmlscmcsa
 Project started 2013-01-03
+Sample execpted from sequencing core 2013-01-10
